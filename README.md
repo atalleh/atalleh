@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atalleh
 - 👀 I’m interested in data analysis, geopolitics, international relations
 - 🌱 I’m currently learning R statistics for public policy
-- 💞️ I’m looking to collaborate on entry level data projects
+- 💞️ I’m looking to collaborate on entry level data projects and build experience.
 - 📫 How to reach me ...
 
 <!---
