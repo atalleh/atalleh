@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atalleh
-- 👀 I’m interested in data analysis, geopolitics, International Relations, Political Science, Middle East Studies, Social Sciences
-- 🌱 I’m currently learning R statistics for public policy
-- 💞️ I’m looking to collaborate on entry level data projects and build experience.
+- 👀 I’m interested in Data Science, geopolitics, IR, Political Science, MENA, Quantitative Social Science, & Public Policy.
+- 🌱 I’m currently learning political analysis using R statistics.
+- 💞️ I’m looking to collaborate on political data projects and build experience.
 - 📫 How to reach me ...
 
 <!---
